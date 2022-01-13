@@ -1,0 +1,46 @@
+body{
+    font-family:'PT Serif',cursive;
+     background-color: #fff8dc; 
+    }
+    
+    .header_div{
+    background: white;
+    color: red;
+    }
+    
+    .header_div p {
+    font-family:'Lobster',Roboto;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: medium;
+    font-weight: bold;
+    }
+    
+    .main_div button{
+    
+    font-family:'VT323';
+    margin-top: 30px;
+    width: 130px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    background-color: lightcoral;
+    }
+    
+    .copy_rights_footer{
+    
+    bottom: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    position:fixed;
+    text-align: center;
+    width: 100%;
+    background-color: grey;
+    color:white;
+    text-shadow: 10px 10px 10px rgb(151,149,149);
+    }
+
+    #image {
+    width: 100px; 
+    height: 100px;
+    }
